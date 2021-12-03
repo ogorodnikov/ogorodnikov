@@ -11,22 +11,22 @@ I’m Mykhailo Ohorodnikov - Python developer with telecom background
 Free web application to run algorithms on real Quantum Computers!<br>
 Flask, Qiskit, AWS and much more:
 
-https://m1.ogoro.me <br>
-https://github.com/ogorodnikov/m1#readme
+[m1.ogoro.me](https://m1.ogoro.me/) <br>
+[github.com/ogorodnikov/m1](https://github.com/ogorodnikov/m1#readme)
 
 ### Checkio
 
 Competitive programming:
 
-https://py.checkio.org/user/ogoro/ <br>
-https://github.com/ogorodnikov/pycheck#readme
+[py.checkio.org/user/ogoro](https://py.checkio.org/user/ogoro/) <br>
+[github.com/ogorodnikov/pycheck](https://github.com/ogorodnikov/pycheck#readme)
 
 <br>
 
 📧 Contact me:
 
 mi.ogoro@gmail.com <br>
-https://ogoro.me/
+[ogoro.me](https://ogoro.me/)
 
 <br>
 
