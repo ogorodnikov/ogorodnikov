@@ -1,31 +1,32 @@
-Hi, I’m 
+Hi, 
 
-Mykhailo Ohorodnikov - Telecom engineer from Kyiv, Ukraine
-
-<br>
-
-🔥 Passionate about:
-
-1) Python
-
-    Competitive programming, algorithms:
-    https://py.checkio.org/user/ogoro/
-
-2) AWS
-
-    IaaS, CDK, CI/CD, ML
-
-3) Quantum Computation
-
-    Qiskit, Braket
+I’m Mykhailo Ohorodnikov - Python developer with telecom background
 
 <br>
 
-📧 Reach me:
+🔥 Passionate about Python, Quantum Computing, AWS:
 
-mi.ogoro@gmail.com
+### M1 Project
 
-https://twitter.com/ogorodnikof
+Free web application to run algorithms on real Quantum Computers!<br>
+Flask, Qiskit, AWS and much more:
+
+https://m1.ogoro.me <br>
+https://github.com/ogorodnikov/m1#readme
+
+### Checkio
+
+Competitive programming:
+
+https://py.checkio.org/user/ogoro/ <br>
+https://github.com/ogorodnikov/pycheck#readme
+
+<br>
+
+📧 Contact me:
+
+mi.ogoro@gmail.com <br>
+https://ogoro.me/
 
 <br>
 
