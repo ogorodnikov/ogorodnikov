@@ -18,7 +18,7 @@ Flask, Qiskit, AWS and much more:
 
 Competitive programming:
 
-[py.checkio.org/user/ogoro](https://py.checkio.org/user/ogoro/) <br>
+[py.checkio.org/user/ogoro](https://py.checkio.org/user/ogoro/solutions/share/d98d8b1c3af7f68cbcdc6b5766f6f9f5/) <br>
 [github.com/ogorodnikov/pycheck](https://github.com/ogorodnikov/pycheck#readme)
 
 <br>
